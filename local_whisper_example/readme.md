@@ -10,5 +10,5 @@ To open Jupyter Hub you can run following command from folder with `.ipynb` file
 
 ```
 activate transcript_env
-jupyter hub
+jupyter lab
 ```
